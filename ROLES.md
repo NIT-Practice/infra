@@ -2,6 +2,8 @@
 
 | Участник | Роли |
 |----------|------|
-| Аяулым   | Аналитик, Scrum-мастер, Project Manager, GitHub Owner |
-| А        | Backend-разработчик |
-| Ж        | Frontend-разработчик |
+| Аяулым   | Аналитик, Scrum-мастер, Project Manager
+| Акан     | Backend-разработчик |
+| Жанбатыр | Frontend-разработчик |
+
+
